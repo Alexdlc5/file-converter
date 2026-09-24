@@ -1,0 +1,32 @@
+# Window
+tkinterdnd2>=0.4        # drag and drop
+sv-ttk>=2.6             # modern look
+darkdetect>=0.8         # follow the system's dark mode
+
+# Images
+Pillow>=11.2            # 11.2+ reads and writes AVIF
+pillow-heif>=0.20       # iPhone HEIC photos
+
+# Video, audio, subtitles (ships its own ffmpeg)
+imageio-ffmpeg>=0.5
+
+# Documents (ships its own pandoc)
+pypandoc_binary>=1.13
+
+# PDFs
+PyMuPDF>=1.24
+pdf2docx>=0.5.8
+
+# Spreadsheets and data
+pandas>=2.0
+openpyxl>=3.1
+odfpy>=1.4
+xlrd>=2.0
+tabulate>=0.9
+PyYAML>=6.0
+tomli-w>=1.0
+tomli>=2.0; python_version < "3.11"
+
+# Fonts
+fonttools>=4.40
+brotli>=1.1
