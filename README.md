@@ -1,6 +1,6 @@
 # File Converter
 
-A desktop app that converts files from one format to another. Drop in documents, PDFs, images, video, audio, spreadsheets and more, pick an output format for each type, and click **Convert**. It all runs on your computer, and no files are uploaded anywhere.
+A desktop app built using Claude Opus 5.5 that converts files from one format to another. Drop in documents, PDFs, images, video, audio, spreadsheets and more, pick an output format for each type, and click **Convert**. It all runs on your computer, and no files are uploaded anywhere.
 
 Works on Windows 10/11, macOS and Linux.
 
